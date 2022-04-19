@@ -1,6 +1,6 @@
 Hey, my name is Diogo van der Putten and I'm studying Computers and Telematic Engineering at Universidade de Aveiro.
 
-- Currently I'm trying to figure out Unity and C#.
+- Currently I'm trying to figure out Rust.
 
 - You can reach me through 🐦 Twitter @dagvdputin or e-mail 📧 at vanderputtendiogo@gmail.com
 
